@@ -10,3 +10,4 @@ class Test(TestCase):
     def test_two_numbers_are_same(self):
         expected = 2.2
         self.assertEqual(expected, median(2.2, 1.1, 2.2))
+
