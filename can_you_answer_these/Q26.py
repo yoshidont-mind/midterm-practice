@@ -18,3 +18,4 @@ def find_duplicates(given_list):
         if integer not in result:
             result.append(integer)
     return result
+
